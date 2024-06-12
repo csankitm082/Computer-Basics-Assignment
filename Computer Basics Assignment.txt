@@ -1,0 +1,15 @@
+Answer 1 : A computer is an electronic device that processes data and performs tasks according to programmed instructions.
+
+Answer 2: RAM (Random Access Memory) is a type of computer memory that temporarily stores data and programs currently being used, allowing for quick access and processing by the CPU.
+
+Answer 3 : Data in a computer is stored in the hard drive (HDD/SSD), RAM, cache memory, and external storage devices.
+
+Answer 4 : The input device used to type text and numbers on a document in a computer system is a keyboard.
+
+Answer 5 : Output devices include monitors, printers, speakers, projectors, and headphones.
+
+Answer 6 : The input device that allows a user to move the cursor or pointer on the screen is a mouse.
+
+Answer 7 : Machine language (or machine code) is directly understood by the computer without a translation program.
+
+Answer 8 : Input devices are hardware like keyboards, mice, touchscreens, and more, that let users interact with computers by providing data or commands.
